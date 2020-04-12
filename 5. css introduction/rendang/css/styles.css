@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    font-size: 100px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+img:hover{
+    background-color: turquoise;
+}
+
+.rendangPicture{
+    background-color: blue;
+}
+
+.bayamPicture{
+    background-color: red;
+}

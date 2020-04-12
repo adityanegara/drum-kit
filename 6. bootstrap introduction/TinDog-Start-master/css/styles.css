@@ -1,0 +1,94 @@
+#title{
+    background-color: #ff4c68;
+}
+
+body{
+    font-family: 'Monsterrat';
+}
+
+h1{
+    font-family: 'Montserrat';
+    line-height: 1.5;
+    font-weight: 900;
+    
+}
+
+.container-fluid{
+    padding: 3% 15% !important ;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu' !important;
+   
+    font-size: 45px !important;
+   
+}
+
+.navbar{
+    padding-left: 0px !important;
+}
+
+.moto-h1{
+    color: white;
+    margin-top: 50px;
+}
+
+.download-button{
+    margin-top: 30px;
+}
+
+.apple-download-button{
+  margin-right: 15px !important;
+}
+
+.mockup-img{
+    transform: rotate(20deg);
+    width: 60%;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+
+.features-icon{
+    color: #ef8172;
+   
+}
+
+.features .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .features h3 {
+    font-weight: 700;
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+  }
+  .features .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+  .features p {
+      color: #8f8f8f;
+      font-size: 1rem;
+  }
+
+  .features {
+     padding: 5% 15%;
+  }
+
+  .icon-i {
+    margin-bottom: 30px;
+  }
+
+.icon-i:hover{
+    color: #ff4c68;
+  
+}
+
+  
